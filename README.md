@@ -1,0 +1,3 @@
+This is a repository I created in 2019, for my AP Research project. It was also submitted to the local Science Fair, where it earned 1st place at the county level. Also, my project earned the Grand Prize of the 2020 Nelson Ying Science Competition (see https://www.osc.org/tag/ian-henriques/). 
+
+A concise demonstration version of my original code can be found in src, while my AP Research Paper, with attached results and supporting slides, can be found in docs.
